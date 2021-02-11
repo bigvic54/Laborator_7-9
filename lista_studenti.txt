@@ -1,0 +1,6 @@
+1, Pop Ion, 213
+2, Antonovici Traian, 917
+15, Adam Madalina, 917
+17, Bob Mihai, 213
+23, Farcas Stefan, 213
+44, Andronic Constantin-Dinu, 213

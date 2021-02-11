@@ -1,0 +1,6 @@
+1, Pop Ion, 213; 1, 1, Catalog studenti, 05.04.2021; 2
+2, Antonovici Traian, 917; 1, 1, Catalog studenti, 05.04.2021; 2
+15, Adam Madalina, 917; 1, 1, Catalog studenti, 05.04.2021; 4
+17, Bob Mihai, 213; 1, 1, Catalog studenti, 05.04.2021; 5
+17, Bob Mihai, 213; 2, 7, Catalog studenti, 05.04.2021; 8
+15, Adam Madalina, 917; 2, 1, Cont bancar, 21.11.2020; 1

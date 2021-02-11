@@ -1,0 +1,6 @@
+1, 2, Mersul trenurilor, 12.21.2020
+1, 2, Mersul trenurilor, 12.21.2020
+2, 1, Cont bancar, 21.11.2020
+2, 3, Agentie de voiaj, 28.02.2021
+2, 7, Programare dinamica, 31.01.2021
+3, 1, Problema grafuri, 02.02.2021
